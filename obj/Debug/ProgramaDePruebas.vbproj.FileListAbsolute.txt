@@ -1,0 +1,14 @@
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\bin\Debug\ProgramaDePruebas.exe.config
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\bin\Debug\ProgramaDePruebas.exe
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\bin\Debug\ProgramaDePruebas.pdb
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\bin\Debug\ProgramaDePruebas.xml
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.vbprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.Resources.resources
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.vbproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.vbproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.exe
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.xml
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.pdb
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.FrmPrimero.resources
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.FrmSegundo.resources
+C:\Users\Antonio\source\repos\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.FrmTercerFormulario.resources
